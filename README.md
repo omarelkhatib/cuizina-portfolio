@@ -1,6 +1,6 @@
 # Cuizina — Luxury Catering Website
 
-**Live Demo:** (paste your Vercel link here)
+**Live Demo:** https://cuizina-next.vercel.app/
 
 ## Overview
 A premium, luxury catering website designed in TeleportHQ and deployed using a Next.js + Vercel workflow to ensure speed, responsiveness, and easy future updates.
@@ -19,16 +19,7 @@ A premium, luxury catering website designed in TeleportHQ and deployed using a N
 - Vercel
 
 ## Screenshots
-Create a folder named `screenshots/` and add images:
-- `home.png`
-- `mobile.png`
-- `footer.png`
-
-Then reference them here:
-
-![Home](screenshots/home.png)
-![Mobile](screenshots/mobile.png)
-![Footer](screenshots/footer.png)
+https://github.com/omarelkhatib/cuizina-portfolio/blob/main/cuizina.teleporthq.site_.png
 
 ## Notes
 Client project — source code kept private for confidentiality.
